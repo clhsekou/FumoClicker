@@ -1,22 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fumo Clicker</title>
-    <style>
-        /* General Body and Background */
-        body {
-            display: flex;
-            flex-direction: column;
-            justify-content: flex-start;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: black;
-            font-family: sans-serif;
-            overflow: hidden; /* Prevent scrollbars */
-        }
+
 
         /* --- BACKGROUND STYLES --- */
         #bg-video-container {
